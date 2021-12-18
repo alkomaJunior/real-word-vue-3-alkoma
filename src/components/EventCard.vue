@@ -7,14 +7,14 @@
 
 <script>
 export default {
-  name: "EventCard",
+  name: 'EventCard',
   props: {
     event: {
       type: Object,
       required: true,
     },
   },
-};
+}
 </script>
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
